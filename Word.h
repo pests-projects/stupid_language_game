@@ -1,3 +1,6 @@
+//add utf-8 support
+//prepare similar words parser for game
+
 #ifndef WORD_H
 #define WORD_H
 
